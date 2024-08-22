@@ -51,7 +51,8 @@ This project focuses on analyzing the loyalty program data from Northern Lights 
 
 ## How to Use This Repository
 
-1. **Clone the repository**: `git clone https://github.com/your-username/NLA-loyalty-program-analysis.git`
+1. **Clone the repository**: `git clone https://github.com/
+yogindersinghsandhu/NLA-loyalty-program-analysis.git`
 2. **Navigate to the project directory**: `cd NLA-loyalty-program-analysis`
 3. **Install necessary dependencies**: `pip install -r requirements.txt`
 4. **Run the analysis scripts**: `python analyze_loyalty_data.py`
